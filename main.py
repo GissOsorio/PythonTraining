@@ -1,5 +1,6 @@
 from naughtyNice import *
 from doppelgangerEnigma import *
+from reversingWords import *
 
 print("**Naughty Nice**")
 bad_actions = ['broke someone\'s window', 'fought over a toaster', 'killed a bug']
@@ -11,3 +12,7 @@ print("Actions: " + my_function(actions))
 
 print("**Doppelganger Enigma**")
 print(doppelgangerEnigma())
+
+print("**Reversing Words in a String**")
+print(reverse('Hi    There.'))
+print(reverse('Hello World'))

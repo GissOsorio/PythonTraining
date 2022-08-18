@@ -11,7 +11,7 @@
 ### Exercise
 
 - [The Doppelganger Enigma](../main/doppelgangerEnigma.py)
-- [Reversing Words in a String](../exercises/reversing_words.md)
+- [Reversing Words in a String](../main/reversingWords.py)
 
 ## Chapter 3. Being pythonic
 
