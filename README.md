@@ -2,21 +2,15 @@
 
 ## Chapter 1. Basics and primitive types
 
-
 ### Exercise
 
 - [Naughty or Nice?](../main/naughtyNice.py)
 
 ## Chapter 2. Known structures
 
-- Lists, Loops, sorting
-- Iterators (enumerate and range)
-- Dictionaries
-- Tuples and named tuples
-
 ### Exercise
 
-- [The Doppelganger Enigma](../exercises/doppelganger_enigma.md)
+- [The Doppelganger Enigma](../main/doppelgangerEnigma.py)
 - [Reversing Words in a String](../exercises/reversing_words.md)
 
 ## Chapter 3. Being pythonic
