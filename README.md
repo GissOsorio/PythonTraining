@@ -15,22 +15,11 @@
 
 ## Chapter 3. Being pythonic
 
-- [Truthy and falsy values](https://www.freecodecamp.org/news/truthy-and-falsy-values-in-python/) (`__bool__` method)
-- [Variadic functions](https://realpython.com/python-kwargs-and-args/)
-- [Exceptions](https://docs.python.org/3/tutorial/errors.html) and error handling
-- The standard [library](https://docs.python.org/3/library/)
-- [Context Managers](https://book.pythontips.com/en/latest/context_managers.html) and [Exception Handling](https://book.pythontips.com/en/latest/context_managers.html#handling-exceptions)
-
 ### Exercise
 
 - [Bad Exception Handling](../exercises/exception_handling.md)
 
 ## Chapter 4. Testing
-
-- Writing [unit tests](https://docs.python.org/3/library/unittest.html)
-- [Mocking](https://docs.python.org/3/library/unittest.mock.html) and magic-mocking
-- Patch
-- [Coverage](https://coverage.readthedocs.io/en/coverage-5.0.3/) tool.
 
 ### Exercise
 
@@ -39,6 +28,28 @@
 - Add tests to the [Doppelganger enigma](../exercises/doppelganger_enigma.md) exercise.
 - [Catch Thief](../exercises/catch_thief.md)
 
-[Previous](1.md)
-[Next](3.md)
-[Index](../README.md)
+# Thread 3: Develop with Python
+
+## Chapter 1. Software design
+
+### Exercise
+
+- Using generators, calculate the Nth value of the Fibonacci sequence
+  - Bonus: Use a memoization technique (Can you figure out in what case this technique would not work?)
+- [Schrödinger's Boolean](../exercises/schrodinger_boolean.md)
+
+## Chapter 2: Functional programming
+
+### Exercise
+
+- [Replace With Alphabet Position](../exercises/alphabet_position.md)
+- [Expected Type Decorator](../exercises/expected_type_decorator.md)
+- [Currying vs. Partial Application](../exercises/currying_partial_application.md)
+
+## Chapter 4: Parallelism and Concurrency
+
+### Exercise
+
+- Refactor the exercise from [thread 1 chapter 3](./1.md) to consume a list of GitHub usernames
+  - Use the learned concepts to have a non-blocking solution using Async IO.
+  - Write a CSV file with the list of repositories from each username.
