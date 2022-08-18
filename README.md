@@ -5,7 +5,7 @@
 
 ### Exercise
 
-- [Naughty or Nice?](../naughtyNice.py)
+- [Naughty or Nice?](../main/naughtyNice.py)
 
 ## Chapter 2. Known structures
 
