@@ -17,7 +17,7 @@
 
 ### Exercise
 
-- [Bad Exception Handling](../exercises/exception_handling.md)
+- [Bad Exception Handling](../exercises/exceptionHandling.py)
 
 ## Chapter 4. Testing
 

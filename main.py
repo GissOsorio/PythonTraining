@@ -1,6 +1,7 @@
 from naughtyNice import *
 from doppelgangerEnigma import *
 from reversingWords import *
+from exceptionHandling import *
 
 print("**Naughty Nice**")
 bad_actions = ['broke someone\'s window', 'fought over a toaster', 'killed a bug']
@@ -16,3 +17,6 @@ print(doppelgangerEnigma())
 print("**Reversing Words in a String**")
 print(reverse('Hi    There.'))
 print(reverse('Hello World'))
+
+print("**ExceptionHandling**")
+print(index_of(4,[1,2,3]))
